@@ -3,7 +3,7 @@
 <h3>Projeto | Project </h3>
 
 [PT-BR]
-- API REST Web Service que simula a emissão de notas fiscais.
+- API REST Web Service que simula a emissão de notas fiscais em uma loja.
 
 [ENG]
 - REST API Web Service that emulates a system of a store that provides receipts.
